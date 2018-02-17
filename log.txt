@@ -1,0 +1,14 @@
+node liri.js movie-this Unbroken
+node liri.js spotify-this-song Gimme Shelter
+node liri.js spotify-this-song Gimme Shelter
+node liri.js spotify-this-song Gimme Shelter
+node liri.js
+Please pass in a valid LIRI command type...
+Ex: "my-tweets", "spotify-this-song", "movie-this", or "do-what-it-says"
+
+
+node liri.js spotify-this-song,Gimme Shelter
+Please pass in a valid LIRI command type...
+Ex: "my-tweets", "spotify-this-song", "movie-this", or "do-what-it-says"
+
+

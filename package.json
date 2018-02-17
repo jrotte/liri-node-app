@@ -1,0 +1,26 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives back data from various APIs.",
+  "main": "liri.js",
+  "dependencies": {
+    "request": "^2.75.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrotte/liri-node-app.git"
+  },
+  "author": "jrotte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrotte/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/jrotte/liri-node-app#readme",
+  "keywords": []
+}
